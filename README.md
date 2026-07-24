@@ -30,7 +30,14 @@ From engineering memory-safe console databases with custom access controls to bu
 
 ### 🏆 Featured Architecture & Projects
 
-#### 🤖 AI-Enabled Business Analytics System
+#### 🤖 **RudraForgeAI**
+*An advanced AI-powered web workspace and dashboard application designed to integrate smart workflows, data interaction, and seamless prompt processing.*
+*   **Live Prototype:** 🌐 [View Web Portal](https://rudroforge-ai1.vercel.app/dashboard)
+*   **Tech Stack:** Modern Web Frontend, Next.js / React Framework, API Routing, Tailwind / Custom Styling
+*   **Intelligent Interface:** Offers a responsive, dynamic dashboard layout built for real-time interaction and automated response processing.
+*   **Seamless Integration:** Designed with optimized routing and fluid frontend components to deliver a smooth, high-performance user experience.
+
+#### 🤖 **AI-Enabled Business Analytics System**
 *A comprehensive B2B analytics dashboard providing automated enterprise intelligence.*
 *   **Tech Stack:** HTML, CSS, JavaScript, Python, MongoDB
 *   **Data Parsing & Ingestion:** Ingests user-uploaded enterprise data directly from Excel (.xlsx) and CSV spreadsheets.
@@ -38,13 +45,13 @@ From engineering memory-safe console databases with custom access controls to bu
 *   **LLM Recommendations:** Synthesizes multi-page reports to output actionable strategic business recommendations for scale.
 *   **Interactive Dashboard:** Features a dynamic reporting suite that enables users to monitor live core business health and instantly export comprehensive physical reports.
 
-#### 🗄️ SQL-Backed Secure Banking Transaction System
+#### 🗄️ **SQL-Backed Secure Banking Transaction System**
 *A high-security monolithic CLI banking module engineered to intercept high-volume financial risks.*
 *   **Tech Stack:** C, SQL Database Integration, Encryption Modules
 *   **Fraud Detection Mechanism:** Features automated algorithmic limits that trigger instant account locking protocols if anomalous or massive transactions (₹1,00,000+) are detected.
 *   **Access Verification Engine:** Implements strict security checkpoints including secondary One-Time Password (OTP) validation engines during suspicious authentication attempts to prevent credential bypass.
 
-#### ❤️ AI-Powered Celebratory & Greeting Portal
+#### ❤️ **AI-Powered Celebratory & Greeting Portal**
 *An interactive web platform designed to create personalized thematic media for couples.*
 *   **Live Prototype:** 🌐 [View Web Portal](https://rudro-pro.github.io/FOR-YOUR-LOVE/)
 *   **Contextual Generation Engine:** Captures multi-user inputs (names, custom occasions, tones) and leverages generative AI to compose custom long-form letters, texts, or birthday milestones wrapped in beautiful visual themes.
