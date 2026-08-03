@@ -11,7 +11,7 @@ From engineering memory-safe console databases with custom access controls to bu
 
 ### ⚡ Engineering Focus
 
-*   **Backend Servers & API Architecture:** Engineering robust Python/FastAPI gateways to bridge hardware and software nodes. I focus on implementing secure, low-latency data pipelines, real-time web scraping engines, and in-memory context accumulators.
+*   **Backend Servers & API Architecture:** Engineering robust Python/FastAPI gateways to bridge hardware and software nodes. I focus on implementing secure, low-latency data pipelines, real-time web scraping engines, and in-memory context accumulators
 *   **Embedded Systems & Hardware:** Engineering C/C++ and Java logic for custom hardware, integrating spatial sensor arrays, and calibrating localized haptic feedback using Arduino Uno, ESP32, and Raspberry Pi.
 *   **Full-Stack Web Development:** Building dynamic, AI-integrated user interfaces and responsive web applications backed by secure data management systems.
 *   **Core Software Foundations:** Actively strengthening computational thinking through advanced Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP) via Java, and custom console/database files with File I/O algorithms.
