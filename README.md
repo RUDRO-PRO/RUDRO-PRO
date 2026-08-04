@@ -30,7 +30,7 @@ From engineering memory-safe console databases with custom access controls to bu
 
 ### 🏆 Featured Architecture & Projects
 
-#### 🤖 **RudroForgeAI**
+#### 🤖 **Rudro-ForgeAI**
 *An advanced AI-powered web workspace and dashboard application designed to integrate smart workflows, data interaction, and seamless prompt processing.*
 *   **Live Prototype:** 🌐 [View Web Portal](https://rudroforge-ai1.vercel.app/dashboard)
 *   **Tech Stack:** Modern Web Frontend, Next.js / React Framework, API Routing, Tailwind / Custom Styling
