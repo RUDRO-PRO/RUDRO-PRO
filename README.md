@@ -1,4 +1,4 @@
-# 👨‍💻 Rudro Chakraborty
+# 👨‍💻 RUDRO CHAKRABORTY
 
 ### Full-Stack Developer | AI Integration | Embedded Systems | System Architect
 > "Software is just theory until it interacts with the physical world."
