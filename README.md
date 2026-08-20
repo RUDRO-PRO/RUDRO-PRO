@@ -39,7 +39,7 @@ From engineering memory-safe console databases with custom access controls to bu
 
 #### 🤖 **AI-Enabled Business Analytics System**
 *A comprehensive B2B analytics dashboard providing automated enterprise intelligence.*
-*   **Tech Stack:** HTML, CSS, JavaScript, Python, MongoDB
+*   **Tech Stack:** HTML, CSS, JavaScript, Python, MongoDB.
 *   **Data Parsing & Ingestion:** Ingests user-uploaded enterprise data directly from Excel (.xlsx) and CSV spreadsheets.
 *   **Automated Growth Insights:** Analyzes historical reports to compute profit trends, assess organizational growth rates, and pinpoint localized drops or spikes in sales performance.
 *   **LLM Recommendations:** Synthesizes multi-page reports to output actionable strategic business recommendations for scale.
