@@ -11,24 +11,31 @@ From engineering memory-safe console databases with custom access controls to bu
 
 ### ⚡ Engineering Focus:
 
-*   **Backend Servers & API Architecture:** Engineering robust Python/FastAPI gateways to bridge hardware and software nodes. I focus on implementing secure, low-latency data pipelines, real-time web scraping engines, and in-memory context accumulators
+*   **Backend Servers & API Architecture:** Engineering robust Python/FastAPI gateways to bridge hardware and software nodes. I focus on implementing secure, low-latency data pipelines, real-time web scraping engines, and in-memory context accumulators.
 *   **Embedded Systems & Hardware:** Engineering C/C++ and Java logic for custom hardware, integrating spatial sensor arrays, and calibrating localized haptic feedback using Arduino Uno, ESP32, and Raspberry Pi.
 *   **Full-Stack Web Development:** Building dynamic, AI-integrated user interfaces and responsive web applications backed by secure data management systems.
-*   **Core Software Foundations: ** Actively strengthening computational thinking through advanced Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP) via Java, and custom console/database files with File I/O algorithms.
+*   **Core Software Foundations:** Actively strengthening computational thinking through advanced Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP) via Java, and custom console/database files with File I/O algorithms.
 
 ---
 
 ### 🛠️ The Toolkit
 
-*   **Core Languages:** Java, C++, C, Python
-*   **Frameworks & Tools:** Full-Stack Web Dev (HTML, CSS, JS), FastAPI, Git, GitHub
-*   **AI & APIs:** OpenAI API, Google Grok API
+*   **Core Languages:** Java, C++, C, Python, JavaScript
+*   **Frameworks & Tools:** Next.js, React, Tailwind CSS, FastAPI, Node.js, Git, GitHub
+*   **AI & APIs:** OpenAI API, Google Gemini API, Grok API, Geolocation & Mapping APIs
 *   **Hardware/IoT:** ESP32, Arduino Uno, Raspberry Pi, Sensor Integration
-*   **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Role-Based Access Control (RBAC), AI Integrations
+*   **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Role-Based Access Control (RBAC), AI Integrations, Real-Time Routing
 
 ---
 
 ### 🏆 Featured Architecture & Projects
+
+#### 🚑 **Sanjeevani (EchoAid) — Healthcare Web Application**
+*A mission-critical emergency healthcare response platform built to minimize response time during medical emergencies through intelligent triage and live resource allocation.*
+*   **Tech Stack:** React, Next.js, FastAPI / Python, Tailwind CSS, Google Gemini API, Geolocation Services
+*   **Emergency Triage & AI Diagnosis:** Integrates conversational AI to assess patient symptoms rapidly, assign urgency priority tiers, and provide immediate, localized first-aid guidance.
+*   **Hospital & Resource Routing:** Connects users directly to available emergency infrastructure, providing distance tracking, emergency vehicle dispatch notifications, and nearest blood bank discovery.
+*   **Team Build:** Spearheaded backend API routing, triage pipeline integration, and responsive incident dispatch workflows for the MetaPrompt Hackathon.
 
 #### 🤖 **Rudro-ForgeAI**
 *An advanced AI-powered web workspace and dashboard application designed to integrate smart workflows, data interaction, and seamless prompt processing.*
@@ -39,7 +46,7 @@ From engineering memory-safe console databases with custom access controls to bu
 
 #### 🤖 **AI-Enabled Business Analytics System**
 *A comprehensive B2B analytics dashboard providing automated enterprise intelligence.*
-*   **Tech Stack:** HTML, CSS, JavaScript, Python, MongoDB.
+*   **Tech Stack:** HTML, CSS, JavaScript, Python, MongoDB
 *   **Data Parsing & Ingestion:** Ingests user-uploaded enterprise data directly from Excel (.xlsx) and CSV spreadsheets.
 *   **Automated Growth Insights:** Analyzes historical reports to compute profit trends, assess organizational growth rates, and pinpoint localized drops or spikes in sales performance.
 *   **LLM Recommendations:** Synthesizes multi-page reports to output actionable strategic business recommendations for scale.
@@ -61,8 +68,10 @@ From engineering memory-safe console databases with custom access controls to bu
 
 ### 📜 Accolades & Performance
 
-*   📈 **Academic Standing:** Maintained a strong **8.7 CGPA** in the 1st Semester.
-*   🚀 **Hackathon Competitor:** Active participant in fast-paced builds, including **Crazy Build Hackathon**.
+*   📈 **Academic Standing:** Maintained a **8.2 CGPA** in the 1st year.
+*   🚀 **Hackathon Competitor:** 
+    *   **MetaPrompt Hackathon:** Built *Sanjeevani (EchoAid)* with Team Khichuri at JIS COLLEGE OF ENGINEERING.
+    *   **Crazy Build Hackathon:** Built the *AI-Enabled Business Analytics System* with team Hack Coders at JIS COLLEGE OF ENGINEERING.
 
 ---
 
